@@ -30,6 +30,8 @@ or, as is often the case with [Yeoman](http://yeoman.io) generators, your Gruntf
 require('load-grunt-tasks')(grunt);
 ```
 
+If one option doesn’t work, always attempt the other.
+
 ## buildcontrol task
 
 _Run this task with the `grunt buildcontrol` command._
